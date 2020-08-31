@@ -32,4 +32,4 @@ Here is the module that I used
 # Resources
 - **Python Version:** 3.7.6
 - **Packages:** Pandas, Numpy, Plotly, Scikit-learn
-- **Dataset:** [Kaggle](https://www.kaggle.com/navinmundhra/daily-power-generation-in-india-20172020)
+- **Dataset:** [Kaggle - Daily Power Generation in India (2017-2020)](https://www.kaggle.com/navinmundhra/daily-power-generation-in-india-20172020)
