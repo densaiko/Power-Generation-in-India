@@ -1,5 +1,5 @@
 # Power Generation in India - Exploratory Data Analysis (EDA)
-### This notebook is using plotly which will not show the plotly chart in Github so I recommend you to use [NB viewer](http://nbviewer.jupyter.org/)
+### This notebook is using plotly which will not show the plotly chart in Github so I recommend you to use and click [NB viewer](https://nbviewer.jupyter.org/github/densaiko/Power_Generation_in_India/blob/master/Power%20Generation%20in%20India%20-%20EDA.ipynb)
 - Connecting the population in India into the actual and estimated power generation
 - Understanding the connection between how much power is generated with the total population
 - Understanding the plan of India government to keep and even increase the energy generation in India
