@@ -5,4 +5,22 @@
 - Understanding the plan of India government to keep and even increase the energy generation in India
 
 # Quickstart
-'pip install plotly==4.9.0'
+This command is used to install plotly before you run the plotly function
+`pip install plotly==4.9.0`
+
+Here is the module that I used
+<img src="images/module.png" width="450" >
+
+# Data Exploration
+The spread of population in India
+<img src="images/module.png" width="450" >
+
+The spread of power generation in each region in India
+<img src="images/module.png" width="450" >
+
+The overall actual energy generation
+<img src="images/module.png" width="450" >
+
+Per-Capita Energy Consumption VS Energy Generation
+<img src="images/module.png" width="450" >
+
