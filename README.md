@@ -29,3 +29,7 @@ Here is the module that I used
 
 <img src="image/Power Generation VS Energy Consumption.png" width="550" >
 
+# Resources
+- **Python Version:** 3.7.6
+- **Packages:** Pandas, Numpy, Plotly, Scikit-learn
+- **Dataset:** [Kaggle](https://www.kaggle.com/navinmundhra/daily-power-generation-in-india-20172020)
