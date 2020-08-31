@@ -13,19 +13,19 @@ Here is the module that I used
 <img src="image/module.png" width="450" >
 
 # Data Exploration
-**-The spread of population in India**
+-**The spread of population in India**
 
 <img src="image/population.png" width="500" >
 
-**-The spread of power generation in each region in India**
+-**The spread of power generation in each region in India**
 
 <img src="image/power generation.png" width="500" >
 
-**-The overall actual energy generation**
+-**The overall actual energy generation**
 
 <img src="image/Overall Power Generation.png" width="500" >
 
-**-Per-Capita Energy Consumption VS Energy Generation**
+-**Per-Capita Energy Consumption VS Energy Generation**
 
 <img src="image/Power Generation VS Energy Consumption.png" width="500" >
 
